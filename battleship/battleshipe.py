@@ -2,6 +2,10 @@ import pygame
 import random
 import time
 
+#THIS CODE WAS MADE BY GITHUB USER asdfKC
+#Any use of this code without giving any info about asdfKC will result in a strike. I think.
+
+
 pygame.init()
 pygame.mixer.init()
  
